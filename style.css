@@ -1,0 +1,62 @@
+.intro{
+background-color: #FF0000; 
+border:solid;
+display:flex;
+justify-content:space-evenly;
+}
+body{
+background-color: #ffc0cb;
+margin: 30px;
+padding: 10px;
+font-family: 'Trebuchet MS';
+}
+.one{
+border:solid;
+color:#0000FF;
+}
+.two{
+border:solid;
+color: #880088;
+}
+.three{
+border:solid;
+color: #000000;
+}
+.four{
+border:solid;
+color: #006400;
+}
+.five{
+border:solid;
+color: #B02727;
+}
+.head{
+border:solid;
+color: #50008A;
+}
+.one:hover{
+transform: scale(1.02);
+opacity:0.8;
+}
+.two:hover{
+transform: scale(1.02);
+opacity:0.8;
+}
+.three:hover{
+transform: scale(1.02);
+opacity:0.8;
+}
+.four:hover{
+transform: scale(1.02);
+opacity:0.8;
+}
+.five:hover{
+transform: scale(1.02);
+opacity:0.8;
+}
+a:link{
+color: #00FFFF;    
+}
+a:visited{
+color: #8B0000;    
+}
